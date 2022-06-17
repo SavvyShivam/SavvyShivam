@@ -12,7 +12,7 @@ Eager to learn & have a deep dive into the ocean of new technologies, obtain a c
 * 🚀  I'm currently working on [important project](http://tenor.com/view/mein-nahi-bataunga-johnny-lever-johnny-lever-gif-24091181)
 * 🧠  I'm learning Frontend Development
 * 🤝  I'm open to collaborating on Interesting Projects
-* ⚡  An Engineer by Profession and Dancer by Passion
+* ⚡  An Engineer by Profession and Dancer by Passion.
 
 <a href="https://www.github.com/SavvyShivam" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SavvyShivam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
