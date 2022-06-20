@@ -22,7 +22,7 @@ src="https://img.shields.io/github/followers/SavvyShivam?logo=github&style=for-t
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SavvyShivam&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![snake gif](https://github.com/SavvyShivam/SavvyShivam/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/SavvyShivam/SavvyShivam/blob/output/github-contribution-grid-snake.gif) -->
 
 ### Skills
 
