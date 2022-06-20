@@ -1,7 +1,7 @@
 Hi 👋 My name is Shivam Kumar
 =============================
 
-Front End Developer
+Frontend Developer
 -------------------
 
 Eager to learn & have a deep dive into the ocean of new technologies, obtain a challenging position where I can contribute to the success of the organization with my skills and gain experience along with knowledge throughout as a fresher.
@@ -21,6 +21,8 @@ Eager to learn & have a deep dive into the ocean of new technologies, obtain a c
 src="https://img.shields.io/github/followers/SavvyShivam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SavvyShivam&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![snake gif](https://github.com/SavvyShivam/SavvyShivam/blob/output/github-contribution-grid-snake.gif)
 
 ### Skills
 
@@ -56,8 +58,10 @@ src="https://img.shields.io/github/followers/SavvyShivam?logo=github&style=for-t
 
 <a href="http://www.github.com/SavvyShivam"><img src="https://activity-graph.herokuapp.com/graph?username=SavvyShivam&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/SavvyShivam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavvyShivam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SavvyShivam)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- <a href="https://github.com/SavvyShivam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavvyShivam&langs_count=100&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 
 
-![snake gif](https://github.com/SavvyShivam/SavvyShivam/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/SavvyShivam/SavvyShivam/blob/output/github-contribution-grid-snake.gif) -->
