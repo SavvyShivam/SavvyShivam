@@ -11,7 +11,7 @@ Eager to learn & have a deep dive into the ocean of new technologies, obtain a c
 * ✉️  You can contact me at [shivamkeshri7033@gmail.com](mailto:shivamkeshri7033@gmail.com)
 * 🚀  I'm currently working on [important project](http://tenor.com/view/mein-nahi-bataunga-johnny-lever-johnny-lever-gif-24091181)
 * 🧠  I'm learning Frontend Development
-* 🤝  I'm open to collaborating on Interesting Projects
+* 🤝  I'm open to collaborating on Interesting Projects.
 * ⚡  An Engineer by Profession and Dancer by Passion.
 
 ### Visitors
