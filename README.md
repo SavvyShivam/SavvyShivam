@@ -6,13 +6,13 @@ Web Developer
 
 Eager to learn & have a deep dive into the ocean of new technologies, obtain a challenging position where I can contribute to the success of the organization with my skills and gain experience along with knowledge as a fresher.
 
-* 🌍  I'm based in India
+* 🌍  I'm based in India.
 * 🖥️  See my portfolio at [https://savvyshivam.github.io/](http://savvyshivam.github.io/)
 * ✉️  You can contact me at [shivamkeshri7033@gmail.com](mailto:shivamkeshri7033@gmail.com)
 * 🚀  I'm currently working on [important project](http://tenor.com/view/mein-nahi-bataunga-johnny-lever-johnny-lever-gif-24091181)
 * 🧠  I'm learning Frontend Development.
 * 🤝  I'm open to collaborating on Interesting Projects.
-* ⚡  An Engineer by Profession and Dancer by Passion
+* ⚡  An Engineer by Profession and Dancer by Passion.
 
 ### Visitors
 ![](https://komarev.com/ghpvc/?username=SavvyShivam)
