@@ -1,4 +1,4 @@
-Hi 👋 My name is Shivam Kumar...
+Hi 👋 My name is Shivam Kumar.
 ==============================
 
 Mern Stack Web Developer
