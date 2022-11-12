@@ -1,7 +1,7 @@
-Hi 👋 My name is Shivam Kumar.
+Hi 👋 My name is Shivam Kumar...
 ==============================
 
-Web Developer
+Mern Stack Web Developer
 -------------------
 
 Eager to learn & have a deep dive into the ocean of new technologies, obtain a challenging position where I can contribute to the success of the organization with my skills and gain experience along with knowledge as a fresher.
