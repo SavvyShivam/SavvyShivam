@@ -17,6 +17,8 @@ Eager to learn & have a deep dive into the ocean of new technologies, obtain a c
 ### Visitors
 ![](https://komarev.com/ghpvc/?username=SavvyShivam)
 
+### DevCard
+<a href="https://app.daily.dev/SavvyShivam"><img src="https://api.daily.dev/devcards/4e1725aafbef460fa75e3932acb2c224.png?r=nnu" width="400" alt="Shivam Kumar's Dev Card"/></a>
 <!-- 
 <a href="https://www.github.com/SavvyShivam" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SavvyShivam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
