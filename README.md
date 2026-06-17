@@ -5,10 +5,7 @@
 I love building products that solve real problems using **AI, automation, and software engineering**. Currently, I’m focused on **AI Product Management**, building my own apps, and exploring how technology can create meaningful user experiences.
 
 I enjoy turning ideas into products — from **concept → market research → development → launch**.
-
 ---
----
-
 ### 📲 My Apps
 
 🏢 **Developer Profile:**
