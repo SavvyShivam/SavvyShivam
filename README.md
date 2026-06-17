@@ -7,6 +7,14 @@ I love building products that solve real problems using **AI, automation, and so
 I enjoy turning ideas into products — from **concept → market research → development → launch**.
 
 ---
+---
+
+### 📲 My Apps
+
+🏢 **Developer Profile:**
+[SK Forge Labs](https://play.google.com/store/apps/developer?id=SK+Forge+Labs&hl=en_IN)
+
+---
 
 ### 🌍 About Me
 
@@ -43,14 +51,6 @@ I enjoy turning ideas into products — from **concept → market research → d
 * 💡 Product ideas solving real-world problems
 * 🔥 Exploring how AI can supercharge traditional apps
 
----
-
-### 📲 My Apps
-
-🏢 **Developer Profile:**
-[SK Forge Labs](https://play.google.com/store/apps/developer?id=SK+Forge+Labs&hl=en_IN)
-
----
 
 ### 📫 Connect With Me
 
